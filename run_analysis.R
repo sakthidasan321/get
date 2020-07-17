@@ -1,7 +1,7 @@
 #run_analysis.R
-#Kathy Ashenfelter
+#sakthidasan
 #Getting and Cleaning Data
-# July 2017
+# July 2020
 #install.packages("dplyr")
 #install.packages("data.table")
 #Load packages
@@ -9,7 +9,7 @@ library(data.table)
 library(dplyr)
 
 #Set your working directory
-setwd("C:/Users/ashenfkt/Google Drive/Dashboard/R_April2017/PhoenixRising/Coursera")
+setwd("C:/Users/ashenfkt/Google Drive/Dashboard/R_April2020/PhoenixRising/Coursera")
 
 #Download UCI data files from the web, unzip them, and specify time/date settings
 URL <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
